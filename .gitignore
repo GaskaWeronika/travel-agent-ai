@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# VSCode
+.vscode/
+
+# Poetry
+.poetry/
+poetry.lock
+
+# Virtualenv
+.venv/
+
+# Environment variables
+.env
+
+# Misc
+.DS_Store
